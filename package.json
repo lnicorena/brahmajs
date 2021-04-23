@@ -1,6 +1,6 @@
 {
   "name": "@lnicorena/brahmajs",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A framework for API testing based on Mocha and Chai",
   "main": "index.js",
   "scripts": {
