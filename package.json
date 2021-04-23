@@ -1,0 +1,32 @@
+{
+  "name": "@lnicorena/brahmajs",
+  "version": "1.0.0",
+  "description": "A framework for API testing based on Mocha and Chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lnicorena/brahmajs.git"
+  },
+  "keywords": [
+    "Brahma",
+    "Brahmajs",
+    "Test",
+    "Testing",
+    "Mocha",
+    "Chai",
+    "Json"
+  ],
+  "author": "Leonardo Nicorena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lnicorena/brahmajs/issues"
+  },
+  "homepage": "https://github.com/lnicorena/brahmajs#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chai": "^4.3.4"
+  }
+}
