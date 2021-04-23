@@ -4,7 +4,7 @@
   "description": "A framework for API testing based on Mocha and Chai",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -28,5 +28,8 @@
   "dependencies": {
     "axios": "^0.21.1",
     "chai": "^4.3.4"
+  },
+  "devDependencies": {
+    "mocha": "^8.3.2"
   }
 }
